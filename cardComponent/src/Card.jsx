@@ -3,7 +3,7 @@ function Card () {
 return(
     <div className="card">
         <img src={profilePic} alt="meow" />
-        <h2>Bassouta</h2>
+        <h2>chacehy</h2>
         <p>i study programming and struggle cuz dumb</p>
     </div>
 )
